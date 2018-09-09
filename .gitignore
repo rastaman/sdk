@@ -12,6 +12,7 @@ platform-private.properties
 BasicGameProject.zip
 JME3TestsTemplate/src/META-INF
 JME3TestsTemplateAndroid/src/META-INF
+jme3-ios/src/com/jme3/gde/ios/avian-openjdk-mac.zip
 *.iml
 .idea
 jme3-project-baselibs/src/com/jme3/gde/project/baselibs
